@@ -19,10 +19,10 @@ export default function Home() {
             <a href="#contact" className="text-muted hover:text-primary transition-colors">Contact</a>
           </div>
           <a 
-            href="#contact" 
+            href="https://patients.coastalpainmanagement.com/assessments/c6aa627a-319d-48df-b55a-f47665fa4904" 
             className="hidden md:inline-flex px-6 py-2.5 bg-primary text-white rounded-full font-medium hover:bg-primary-dark transition-colors"
           >
-            Book Appointment
+            Start Your Journey
           </a>
         </div>
       </nav>
@@ -64,10 +64,10 @@ export default function Home() {
           
           <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up-delay-3">
             <a 
-              href="#contact" 
+              href="https://patients.coastalpainmanagement.com/assessments/c6aa627a-319d-48df-b55a-f47665fa4904" 
               className="px-8 py-4 bg-primary text-white rounded-full text-lg font-medium hover:bg-primary-dark transition-all hover:shadow-lg hover:shadow-primary/25 hover:-translate-y-0.5"
             >
-              Schedule a Consultation
+              Start Your Journey
             </a>
             <a 
               href="#services" 
